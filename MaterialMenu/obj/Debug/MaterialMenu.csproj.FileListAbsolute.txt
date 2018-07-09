@@ -1,0 +1,84 @@
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\ADMIN\Downloads\MaterialMenu-master\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\ADMIN\source\repos\Enju\MaterialMenu\obj\Debug\MaterialMenu.csprojResolveAssemblyReference.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.Cache
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\MaterialMenu\obj\Debug\MaterialMenu.pdb
+E:\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+E:\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll
+E:\Enju\MaterialMenu\bin\Debug\MaterialMenu.pdb
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.csprojResolveAssemblyReference.cache
+E:\Enju\MaterialMenu\obj\Debug\MenuButton.g.cs
+E:\Enju\MaterialMenu\obj\Debug\SideMenu.g.cs
+E:\Enju\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+E:\Enju\MaterialMenu\obj\Debug\MenuButton.baml
+E:\Enju\MaterialMenu\obj\Debug\SideMenu.baml
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.Cache
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.dll
+E:\Enju\MaterialMenu\obj\Debug\MaterialMenu.pdb
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\bin\Debug\MaterialMenu.dll
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\bin\Debug\MaterialMenu.pdb
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.csprojResolveAssemblyReference.cache
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MenuButton.g.cs
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\SideMenu.g.cs
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MenuButton.baml
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\SideMenu.baml
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.dll
+E:\NGOCHUY\MY ID\Enju\MaterialMenu\obj\Debug\MaterialMenu.pdb

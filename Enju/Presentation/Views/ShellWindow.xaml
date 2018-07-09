@@ -1,0 +1,142 @@
+﻿ <Window x:Class="Enju.Presentation.Views.ShellWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" Height="600" Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" WindowState="Maximized">
+    <Grid Background="#FF44325F">
+        <Grid Height="100" VerticalAlignment="Top" Background="White">
+            <StackPanel HorizontalAlignment="Right">
+                <materialDesign:PopupBox PlacementMode="BottomAndAlignRightEdges"  StaysOpen="False" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Gray" ForceCursor="True">
+                    <StackPanel Width="150">
+                        <Button Content="Settings"/>
+                        <Button Content="Account"/>
+                        <Button Content="Help"/>
+                        <Separator/>
+                        <Button x:Name="btnLogOut" Content="Logout" Command= "{Binding ExitCommand}"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+            </StackPanel>
+            <Image HorizontalAlignment="Left" Margin="10 0"/>
+            <TextBlock Text="Huy.Ahrix" Margin="10" FontSize="14" Foreground="#FF2A6088" HorizontalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <StackPanel VerticalAlignment="Bottom">
+                    <TextBlock Text="FOLLOWERS" Margin="10 0" FontSize="16" FontWeight="Bold" Foreground="#FF2A6088" />
+                    <TextBlock Text="2K" HorizontalAlignment="Center" Margin="5 0 5 5" FontSize="16" Foreground="#FF2A6088"/>
+                </StackPanel>
+                <StackPanel VerticalAlignment="Bottom">
+                    <TextBlock Text="FOLLOWING" Margin="10 0" FontSize="16" FontWeight="Bold" Foreground="#FF2A6088"/>
+                    <TextBlock Text="957" HorizontalAlignment="Center" Margin="5 0 5 5" FontSize="16" Foreground="#FF2A6088"/>
+                </StackPanel>
+                <StackPanel VerticalAlignment="Bottom">
+                    <TextBlock Text="POSTS" Margin="10 0" FontSize="16" FontWeight="Bold" Foreground="#FF2A6088"/>
+                    <TextBlock Text="145" HorizontalAlignment="Center" Margin="5 0 5 5" FontSize="16" Foreground="#FF2A6088"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20" >
+            <TextBlock FontFamily="Nirmala UI" Text="Enju" FontSize="30" Margin="20" VerticalAlignment="Center" Foreground="White"/>
+            <StackPanel HorizontalAlignment="Right">
+                <materialDesign:TransitioningContent x:Name="TransitionContentSlide" OpeningEffect="{materialDesign:TransitionEffect Kind=SlideInFromTop ,Duration=0:0:0.8}">
+                    <Ellipse Height="150" Width="150" Stroke="White" StrokeThickness="3">
+                        <Ellipse.Fill>
+                            <ImageBrush    Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                </materialDesign:TransitioningContent>
+                <Button HorizontalAlignment="Center" Margin="10" Content="Edit Profile" Background="{x:Null}" BorderBrush="White"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10 110">
+            <TextBox Width="150" materialDesign:HintAssist.Hint="SEARCH" Foreground="White"/>
+            <materialDesign:PackIcon Kind="AccountSearch" Foreground="White" VerticalAlignment="Center"/>
+        </StackPanel>
+        <ListView HorizontalAlignment="Right" Margin="0 220 0 0">
+            <ListViewItem Height="50" Width="260">
+                <Grid Height="30" Width="250"> 
+                    <Ellipse Width="30" Height="30" StrokeThickness="0.5" Stroke="White" HorizontalAlignment="Left">
+                        <Ellipse.Fill>
+                            <ImageBrush  Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <TextBlock Width="150" HorizontalAlignment="Left"  Margin="35 0" Text="Your friend John is on instagram as John_J" FontSize="10" TextWrapping="Wrap"/>
+                    <Button HorizontalAlignment="Right" Content="FOLLOW" FontSize="10" Margin="10 0" Height="20" Padding="10 0" Command="{Binding SayCommand}"/>
+                </Grid>
+            </ListViewItem>
+            <ListViewItem Height="50" Width="260">
+                <Grid Height="30" Width="250">
+                    <Ellipse Width="30" Height="30" StrokeThickness="0.5" Stroke="White" HorizontalAlignment="Left">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <TextBlock Width="150" HorizontalAlignment="Left"  Margin="35 0" Text="Your friend Lucy is on instagram as LLucy" FontSize="10" TextWrapping="Wrap"/>
+                    <Button HorizontalAlignment="Right" Content="FOLLOW" FontSize="10" Margin="10 0" Height="20" Padding="10 0"/>
+                </Grid>
+            </ListViewItem>
+            <ListViewItem Height="50" Width="260">
+                <Grid Height="30" Width="250">
+                    <Ellipse Width="30" Height="30" StrokeThickness="0.5" Stroke="White" HorizontalAlignment="Left">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <TextBlock Width="150" HorizontalAlignment="Left"  Margin="35 0" Text="Your friend _b_b_jax is on instagram as bbjax" FontSize="10" TextWrapping="Wrap"/>
+                    <Button HorizontalAlignment="Right" Content="FOLLOW" FontSize="10" Margin="10 0" Height="20" Padding="10 0"/>
+                </Grid>
+            </ListViewItem>
+            <ListViewItem Height="50" Width="260">
+                <Grid Height="30" Width="250">
+                    <Ellipse Width="30" Height="30" StrokeThickness="0.5" Stroke="White" HorizontalAlignment="Left">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <TextBlock Width="150" HorizontalAlignment="Left"  Margin="35 0" Text="Your friend Carl is on instagram as CJ" FontSize="10" TextWrapping="Wrap"/>
+                    <Button HorizontalAlignment="Right" Content="FOLLOW" FontSize="10" Margin="10 0" Height="20" Padding="10 0"/>
+                </Grid>
+            </ListViewItem>
+        </ListView>
+        <materialDesign:TransitioningContent x:Name="TransitionContentSlide01" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft ,Duration=0:0:0.8}">
+            <StackPanel Margin="0 150 300 0">
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <Ellipse Height="70" Width="70" Margin="10" Stroke="White" StrokeThickness="3">
+                        <Ellipse.Fill>
+                            <ImageBrush  Stretch="Uniform" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <Ellipse Height="70" Width="70" Margin="10" Stroke="White" StrokeThickness="3">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <Ellipse Height="70" Width="70" Margin="10" Stroke="White" StrokeThickness="3">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <Ellipse Height="70" Width="70" Margin="10" Stroke="White" StrokeThickness="3">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="{x:Null}" Stretch="UniformToFill"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+                </StackPanel>
+                <ScrollViewer Height="340" ScrollViewer.VerticalScrollBarVisibility="Hidden" >
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                            <Image Width="200" Height="200" Margin="20"  Stretch="UniformToFill"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </StackPanel>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</Window>

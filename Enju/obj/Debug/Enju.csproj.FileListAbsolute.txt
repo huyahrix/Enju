@@ -1,0 +1,102 @@
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\Enju.exe.config
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\Enju.exe
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\Enju.pdb
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\AppMain.g.cs
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\App.baml
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\AppMain.baml
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.g.resources
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.exe
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.pdb
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialMenu.dll
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialMenu.pdb
+C:\Users\ADMIN\source\repos\Enju\Enju\bin\Debug\MaterialMenu.dll.config
+C:\Users\ADMIN\source\repos\Enju\Enju\obj\Debug\Enju.csprojResolveAssemblyReference.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\Enju.exe.config
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\Enju.exe
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\Enju.pdb
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialDesignColors.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialMenu.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialMenu.pdb
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialMenu.dll.config
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.csprojResolveAssemblyReference.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\AppMain.g.cs
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\App.g.cs
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju_MarkupCompile.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju_MarkupCompile.lref
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\App.baml
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\AppMain.baml
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.g.resources
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.Properties.Resources.resources
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.csproj.GenerateResource.Cache
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.csproj.CoreCompileInputs.cache
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.exe
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\obj\Debug\Enju.pdb
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\EPPlus.dll
+C:\Users\huyah\OneDrive\Desktop\Enju\Enju\bin\Debug\EPPlus.xml
+E:\Enju\Enju\obj\Debug\Enju.csprojResolveAssemblyReference.cache
+E:\Enju\Enju\obj\Debug\AppMain.g.cs
+E:\Enju\Enju\obj\Debug\App.g.cs
+E:\Enju\Enju\obj\Debug\Enju_MarkupCompile.cache
+E:\Enju\Enju\obj\Debug\Enju_MarkupCompile.lref
+E:\Enju\Enju\obj\Debug\Enju.exe
+E:\Enju\Enju\obj\Debug\Enju.pdb
+E:\Enju\Enju\bin\Debug\Enju.exe.config
+E:\Enju\Enju\bin\Debug\Enju.exe
+E:\Enju\Enju\bin\Debug\Enju.pdb
+E:\Enju\Enju\bin\Debug\MaterialDesignColors.dll
+E:\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Enju\Enju\bin\Debug\MaterialMenu.dll
+E:\Enju\Enju\bin\Debug\MaterialMenu.pdb
+E:\Enju\Enju\bin\Debug\MaterialMenu.dll.config
+E:\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Enju\Enju\obj\Debug\App.baml
+E:\Enju\Enju\obj\Debug\AppMain.baml
+E:\Enju\Enju\obj\Debug\Enju.g.resources
+E:\Enju\Enju\obj\Debug\Enju.Properties.Resources.resources
+E:\Enju\Enju\obj\Debug\Enju.csproj.GenerateResource.Cache
+E:\Enju\Enju\obj\Debug\Enju.csproj.CoreCompileInputs.cache
+C:\Enju\Enju.exe.config
+C:\Enju\Enju.exe
+C:\Enju\Enju.pdb
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\Enju.exe.config
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.exe
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.pdb
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\Enju.exe
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\Enju.pdb
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialDesignColors.dll
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialMenu.dll
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialMenu.pdb
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialMenu.dll.config
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\NGOCHUY\MY ID\Enju\Enju\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.csprojResolveAssemblyReference.cache
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\AppMain.baml
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\AppMain.g.cs
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\App.g.cs
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju_MarkupCompile.cache
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju_MarkupCompile.lref
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\App.baml
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.g.resources
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.Properties.Resources.resources
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.csproj.GenerateResource.cache
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.csproj.CoreCompileInputs.cache
+E:\NGOCHUY\MY ID\Enju\Enju\obj\Debug\Enju.csproj.CopyComplete
+E:\NGOCHUY\My Sou\Enju\Enju\bin\Debug\Enju.exe.config
+E:\NGOCHUY\My Sou\Enju\Enju\obj\Debug\Enju.exe
+E:\NGOCHUY\My Sou\Enju\Enju\obj\Debug\Enju.pdb
